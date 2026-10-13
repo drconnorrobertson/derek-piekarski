@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://derek-piekarski.vercel.app/sitemap.xml
